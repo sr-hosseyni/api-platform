@@ -1,3 +1,9 @@
+## THIS IS A FORK OF [api-platform](https://github.com/api-platform/api-platform)
+PWA and Mercure has been removed!
+
+
+
+
 <h1 align="center"><a href="https://api-platform.com"><img src="https://api-platform.com/logo-250x250.png" alt="API Platform"></a></h1>
 
 API Platform is a next-generation web framework designed to easily create API-first projects without compromising extensibility
