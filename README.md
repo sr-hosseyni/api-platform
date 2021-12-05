@@ -1,3 +1,4 @@
+# API-platform with no mercure and PWA (with only neccessary packages)
 ## THIS IS A FORK OF [api-platform](https://github.com/api-platform/api-platform)
 PWA and Mercure has been removed!
 
